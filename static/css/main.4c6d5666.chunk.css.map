@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Comment.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,oBACE,8BACF","file":"main.4c6d5666.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n",".comment-list__item {\r\n  background: rgba(128, 128, 128, 0.5);\r\n}"]}
